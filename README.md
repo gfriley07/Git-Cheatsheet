@@ -1,4 +1,4 @@
-# Git & GitHub Cheat Sheet (Table Format)
+# Git & GitHub Cheat Sheet
 
 A quick-reference guide to installing Git, configuring your environment, and using common Git/GitHub commands.
 
